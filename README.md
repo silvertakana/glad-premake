@@ -1,2 +1,2 @@
 # glad-premake
-a premake library for glad
+.sln file creation using premake for glad
